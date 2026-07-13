@@ -20,8 +20,7 @@
 I'm exploring computer science, AI/ML, and practical automation through projects and code experiments.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypatel2611)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jay%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaypatel2611/)
-[![Instagram](https://img.shields.io/badge/Instagram-jaypatel2611-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaypatel2611/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jay%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-patel-785135315)
 
 <br>
 
